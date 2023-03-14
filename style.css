@@ -112,6 +112,7 @@ main {
     height: 36px;
     min-width: 54px;
     text-align: center;
+    cursor: pointer;
 }
 
 .search-button button:hover {
